@@ -1,14 +1,12 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
 
 # Odd-Jobs
 
-!!!Brief introduction to the project and the problem it is intended to solve!!!
+An app to help students do small simple jobs to keep their schedules busy and their pockets full!
 
 ## UX Team Members
 
-* **[Person A](!!!URL to Person A's published portfolio!!!)** - !!!List of Person A's primary contributions!!!
-* **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
-* **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
+Nick- Developed sketches and defined users and goals
+Gabe- assisted in sketching and defined users and goals 
 
 # User-Centered Design Artifacts
  
