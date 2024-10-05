@@ -26,3 +26,11 @@ Goals:
   - Can’t be disruptive to Marcus’s already packed schedule
 
 # Scenarios
+
+Johnathan
+
+The next semester is coming around and one of Jonathan’s classes requires a textbook that costs $75. He would apply for a job in town, but unfortunately he does not have the time to go through the interview process. He recently downloaded the app Odd-Jobs, after getting it recommended by another classmate. He would like to purchase the book in the shortest amount of time possible because shipping times for it may stretch into the week when classes begin if he buys it later.
+
+Marcus
+
+Marcus is a college student who has a dog that has a lot of energy and not a lot of ways to express the energy without causing havoc. Marcus is looking for a way to get Buzz a reliable dog walker who is within his small budget. He wants to make sure Buzz gets the attention he needs. Marcus’s coworker tells him about Odd Jobs, so he downloads our app. He gets worried that he won’t be able to find anyone within his budget, since he has read that walkers can charge up to 30 per dog per hour. He finds a walker that fits his budget, finds their availability and schedules Buzz for daily hour-long walks at 3:30pm for $10/hr.
