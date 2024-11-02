@@ -32,7 +32,7 @@ The side menu for viewing other options. Will eventually allow users to see thei
 
 **Posting New Job Tab**
 
-Clicking on the left-hand side to create a job brings up this page. Areas to fill out for the job type, date and time, completion pay, the location that the employee will show up to, and additional notes. Post the job by hitting the bottom button. Top left of that menu closes out of it.
+Clicking on the left-hand side to create a job brings up this page. Areas to fill out for the job type, date and time, completion pay, the location that the employee will show up to, and additional notes. Post the job by hitting the bottom button. The top left of that menu closes out of it.
 ![Posting New Job Tab](https://github.com/user-attachments/assets/a8c31047-2c03-4f9e-9b4f-2cb1d738aad5)
 
 **Location Selection Tab**
@@ -42,8 +42,21 @@ Clicking on the location bar should bring up a map, along with a way to put in a
 
 **Employee Main Page**
 
+Similar to the Poster Main Page, shows new jobs and has a search function.
+![Employee Main Page](https://github.com/user-attachments/assets/b27ebbb4-c1a9-47ab-9041-37e42e10f3d4)
 
+**Page Switch View**
 
+Similar to the Poster Switch View Tab, has options for viewing new jobs and accepted jobs.
+![Page Switch View](https://github.com/user-attachments/assets/e4986aa0-d074-4ea4-a98d-d2ef70d10c2d)
 
+**Employee Accepted Jobs**
 
+After clicking on the accepted jobs bar in the page switch view menu, brings the user to this. Shows what jobs the employee has accepted.
+![Employee Accepted Jobs](https://github.com/user-attachments/assets/3bf64936-aa2e-46e0-8dca-9b853bbc3806)
+
+**Job View**
+
+Clicking on a job will bring up its relevant information, with a back button at the top-left corner.
+![Job View](https://github.com/user-attachments/assets/26d8937d-239d-4de1-8b6e-ea4745ff5edd)
 
