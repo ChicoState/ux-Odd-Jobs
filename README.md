@@ -43,10 +43,13 @@ Initial research and design for Odd-Jobs was focused on **identifying who studen
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+Phase II was dedicated to developing new features and improving existing ones. We set out to make a UI that would ensure we achieve strong user retention through **solid features and good UI design**.
+
+* Over this sprint, we elicited informal feedback and had independent testers perform Cognitive Walkthroughs on existing wireframes
+  - We learned our original designs didn’t have enough depth to accomplish core functionality
+  - Users prefer a separate interface for posters and “employees”
+* Over this next sprint, we will work to improve wireframes to **make our app more learnable** and make it clear to users the expected workflow
+  - The caveats from this research are that our app was not fully functional at the demo, which limited our ability to **get deeper feedback**
 
 [Full phase II report](phaseII/)
 
@@ -54,9 +57,6 @@ Initial research and design for Odd-Jobs was focused on **identifying who studen
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+
 
 [Full phase III report](phaseIII/)
