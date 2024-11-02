@@ -14,6 +14,8 @@ We used informal feedback for our second research method. After a demonstration 
 
 Our findings through the first Cognitive Walkthrough indicated that while our tester was able to successfully login via a Google account, we needed more wireframes to display what a complete walkthrough would look like. That has since then been accomplished however, during that period, the tester pointed out a need for a nested scroll view in the “new jobs” box that would allow users to click on jobs and view them. They also suggested that users should be able to view either the accepted jobs or new jobs, but not both options at the same time. Their last suggestion was to implement a search function with filters for finding new jobs.
 
+![Poster Main Page](https://github.com/user-attachments/assets/94d09d54-cfef-47bc-9937-87312feed2a6)
+
 Our findings for the second Cognitive Walkthrough pointed out a need to have some sort of highlighting feature when mousing over different buttons, along with the need to add a help/support button on the main page. The tester also suggested that we add some sort of tutorial for first-time users and a way to rate/review the people who finish jobs. Other than that, their experience fell in line with the first tester, in that we needed more wireframes to accurately capture the process of completing the scenarios we had set up for them to follow.
 
 Lastly, the Informal Feedback helped narrow down how we could separate those who post jobs and those who complete them. This also told us that we needed to separate them because having both sides able to see all functions would lead to sensitive user information being leaked, namely that of job poster home addresses which would have been included in the “recently posted jobs tab”.
