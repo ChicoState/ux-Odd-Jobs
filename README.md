@@ -5,8 +5,8 @@ An app to help students do small simple jobs to keep their schedules busy and th
 
 ## UX Team Members
 
-Nick- Developed sketches and defined users and goals
-Gabe- assisted in sketching and defined users and goals 
+Nick- Created Draft Protocol, worked on Draft Prototype, and conducted user tests
+Gabe- Created Draft Protocol, worked on Draft Prototype, and conducted user tests
 
 # User-Centered Design Artifacts
  
