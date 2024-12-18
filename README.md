@@ -57,6 +57,11 @@ Phase II was dedicated to developing new features and improving existing ones. W
 
 **Executive Summary**
 
+* Our Phase 3 started with a **Usability Test** plan that included initial User Tests designs such as our **objective**, our screening parameters, and an early draft of our **test workflow**.
+* Our team took the Figma wireframes from the last phase and expanded on them to develop a **working prototype** for our user tests.
+* The UX team developed a draft of our testing protocol and ran a **pilot test** to see where our protocol/prototype were ready for the full User Tests and to help prepare the team to conduct these interviews.
+* Our UX team conducted a series of **6 user tests** with selected users from the CSCI 431W student pool on 12/10. We utilized our final protocol and prototype to gather information on whether users were able to complete the tasks and their feedback which we compiled into our records to discover common concerns and pain points.
+
 
 
 [Full phase III report](phaseIII/)
