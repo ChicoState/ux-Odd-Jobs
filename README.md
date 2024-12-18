@@ -14,7 +14,7 @@ Gabe- assisted in sketching and defined users and goals
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
-* [Prototype](phaseIII/)
+* [Prototype](phaseIII/OddJobs_Finalized_Protoype.pdf)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
